@@ -9,4 +9,4 @@ This is graphics-based program to simulate someone tossing a pair of coins some 
 # How to Use?
 
   - Just clone the files on a single folder.
-  - Run the program on a Java IDE
+  - Run the files ,under the same package, on a java IDE
